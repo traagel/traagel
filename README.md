@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @traagel
-- 👀 I’m interested in machine learning models for time series forecasting and machine vision
-- 🌱 I’m currently learning data science
-- 📫 Find me on linkedin https://www.linkedin.com/in/mart-traagel/
+- 👋 Hi, I’m Mart
 
 <!---
 traagel/traagel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
